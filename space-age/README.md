@@ -1,6 +1,6 @@
 # Space Age
 
-Java practice with enums. Below is my solution to the Space-age problem on exorcism.io:
+Java practice with enums. Below is my solution to the Space-age problem on exercism.io:
 
 Tested with gradle.
 
